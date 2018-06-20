@@ -1,7 +1,7 @@
 {
   "name": "ben",
   "version": "1.0.0",
-  "description": "Back End administrativo ",
+  "description": "Panel de administración Back-End, Modelo CRUD operacionalcompleto.",
   "author": "Jhon Escobar jescobar@nestsystems.com",
   "private": true,
   "scripts": {

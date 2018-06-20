@@ -1,4 +1,4 @@
-# uctbs
+# BEN
 
 > Assistance with all bot designs, strategies, and implementation. Highest level of intellectual property (algorithms) allowed and desired to be shared here. Additionally, we want to have teachers and direct support 24/7. If you are a guru and enjoy helping others, feel free to sign up.
 
