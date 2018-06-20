@@ -1,0 +1,9 @@
+/**
+ * App - Archivo que centraliza la carga de los scss
+ */
+
+/* Carga del tema default de vuetity*/
+@import '~vuetify/dist/vuetify.min.css';
+
+/* Carga de la coniguracion principal del tema */
+@import 'theme/_theme';
